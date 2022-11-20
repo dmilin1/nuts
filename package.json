@@ -1,7 +1,7 @@
 {
   "name": "nuts",
   "version": "3.1.1",
-  "description": "Server to make private GitHub releases available to download with Squirrel support",
+  "description": "Server to make private GitHub releases available to download with Squirrel support. Forked to add to npm.",
   "main": "./lib/index.js",
   "homepage": "https://github.com/biw/nuts",
   "license": "Apache-2.0",
